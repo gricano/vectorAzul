@@ -1,0 +1,5 @@
+os
+logging
+jsonpickle
+boto3
+aws_xray_sdk.core
